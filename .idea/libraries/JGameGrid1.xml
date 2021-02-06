@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JGameGrid1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/dist/lib/JGameGrid.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
